@@ -1,4 +1,1 @@
-security-blunders
-=================
-
-Sample Code from Avoiding Security Blunders
+See https://github.com/rnapier/practical-security for a more recent version.
